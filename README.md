@@ -4,7 +4,7 @@
 </br>
 https://mynameisseohyeon.github.io/zerocho-javascript-RPG/</br>
 </br>
-![image](https://user-images.githubusercontent.com/105976431/213189814-e26fe84c-2d09-4094-aaaa-b3fc84f393b0.png)
+![image](https://user-images.githubusercontent.com/105976431/213189929-80ab7d6d-8aa0-4257-83e5-0ff176d4cd00.png)
 
 1. 게임을 진행할 주인공의 이름을 설정한다</br>
 </br>
