@@ -4,6 +4,13 @@
 </br>
 https://mynameisseohyeon.github.io/zerocho-javascript-RPG/</br>
 </br>
+![image](https://user-images.githubusercontent.com/105976431/213189593-80310f46-25e2-492a-a04f-70db43fdfad8.png)
+1.주인공의 이름을 설정한다</br>
+</br>
+</br>
+</br>
+-보완해야 할 문제점</br>
+</br>
 1.초기 위쪽화면에 주인공 이름이 나타나지 않는다.</br>
 2.레벨업 시 경험치 부분이 이상하다.</br>
 3.주인공이 패배 시에 체력이 -가 되지 않고 바로 전사했다고 뜬다</br>
