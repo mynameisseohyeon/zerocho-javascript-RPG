@@ -2,7 +2,7 @@
 
 <h2>text rpg</h2></br>
 </br>
-https://mynameisseohyeon.github.io/zerocho-javascript-RPG/
+https://mynameisseohyeon.github.io/zerocho-javascript-RPG/</br>
 </br>
 1.초기 위쪽화면에 주인공 이름이 나타나지 않는다.</br>
 2.레벨업 시 경험치 부분이 이상하다.</br>
